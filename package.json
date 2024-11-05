@@ -1,0 +1,12 @@
+{
+    "name": "SpotitoTm",
+    "version": "1.0.0",
+    "main": "SpotitoTm.js",
+    "scripts": {
+      "start": "node SpotitoTm.js"
+    },
+    "dependencies": {
+      // Agrega las dependencias necesarias aquí, como 'node-fetch', 'telegraf', etc.
+    }
+  }
+  
